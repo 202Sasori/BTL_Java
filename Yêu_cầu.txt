@@ -1,0 +1,23 @@
+1. Thực hiện đăng nhập và đăng ký
+
+2. Vào form quản lý sách.
++ Thực hiện thêm sách
++ Chỉnh sửa sách vừa thêm
++ Nhập mới form nhập liệu
++ Xóa sách vừa thêm 
++ Tìm kiếm sách
++ Thoát về menu chính
+
+3. Vào form quản lý bạn đọc.
++ Thực hiện thêm bạn đọc
++ Chỉnh sửa bạn đọc vừa thêm
++ Nhập mới form nhập liệu
++ Xóa bạn đọc vừa thêm 
++ Tìm kiếm bạn đọc
++ Thoát về menu chính
+
+4. Vào form mượn trả
++ Thực hiện cho sinh viên mã số SV08 mượn sách Tư tưởng HCM mã TK02
++ Xóa mượn trả
++ Tìm kiếm thông tin mượn trả
++ Quay lại menu chính
